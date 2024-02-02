@@ -5,10 +5,10 @@ import pandas as pd
 
 
 """
-安裝TA-lib 失敗 利用pip debug --verbose的改檔名再安裝方法
+如果安裝TA-lib 失敗 利用pip debug --verbose的改檔名再安裝方法
 https://zhuanlan.zhihu.com/p/345127194
 
-使用 python 3.11
+如果使用 python 3.11
 talib檔案安裝包: https://forum.klang.org.cn/assets/uploads/ta_lib-0.4.25-cp311-cp311-win_amd64.whl
 來源: https://www.jianshu.com/p/f60adb869364
 
